@@ -1,0 +1,17 @@
+Django==2.2.7
+djangorestframework==3.10.3
+django-cors-headers==3.1.0
+drf-yasg==1.16.1
+swagger-spec-validator==2.4.3
+coverage==4.5.4
+psycopg2-binary==2.8.3
+django-nose==1.4.6
+faker==2.0.1
+setuptools==41.2.0
+drf-util==0.0.18
+raven==6.10.0
+python-dotenv==0.10.3
+requests==2.22.0
+packaging==19.1
+python-telegram-bot==12.2.0
+xlrd==1.2.0

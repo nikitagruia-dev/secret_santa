@@ -1,0 +1,11 @@
+.idea/
+venv/
+*.pyc
+media/*
+*/testing.py
+db.sqlite3
+.coverage
+htmlcov/*
+.mypy_cache/
+.env
+users.xlsx
